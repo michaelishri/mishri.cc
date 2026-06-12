@@ -8,7 +8,7 @@ hero:
   tagline: Infrastructure Operations and Developer
   actions:
     - theme: brand
-      text: Tere
+      text: Tere - NZ Public Transport
       link: /tere
     # - theme: alt
     #   text: API Examples
